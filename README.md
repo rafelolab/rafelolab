@@ -1,3 +1,6 @@
+
+<img https://capsule-render.vercel.app/api?type=waving&height=110&width=100%&color=%23E50914&section=header&reversal=false&textBg=false&fontSize=70&fontAlign=0&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60</img>
+
 <div align="center">
 
 # 🔴 RAFELO
