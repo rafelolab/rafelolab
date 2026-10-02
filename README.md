@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:E50914&height=200&section=header&text=RAFELO&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=200&section=header&text=RAFELO&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=700&lines=Estudante+de+ADS;Desenvolvedor+em+forma%C3%A7%C3%A3o;Programando%2C+aprendendo+e+evoluindo;Transformando+ideias+em+projetos"/>
 
