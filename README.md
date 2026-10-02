@@ -1,118 +1,319 @@
-
-<img src=" https://capsule-render.vercel.app/api?type=waving&height=110&width=100%&color=%23E50914&section=header&reversal=false&textBg=false&fontSize=70&fontAlign=0&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"</img>
-
 <div align="center">
 
-# 🔴 RAFELO
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:300000,100:E50914&height=200&section=header&text=RAFELO&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Desenvolvedor+em+forma%C3%A7%C3%A3o;Construindo%2C+aprendendo+e+evoluindo." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=700&lines=Estudante+de+ADS;Desenvolvedor+em+forma%C3%A7%C3%A3o;Programando%2C+aprendendo+e+evoluindo;Transformando+ideias+em+projetos"/>
 
-<br>
+<br><br>
 
-<p>
-  <strong>Desenvolvimento • Automação • Tecnologia</strong>
-</p>
+<img src="https://img.shields.io/badge/FOCO-TECNOLOGIA-E50914?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/STATUS-ESTUDANTE-E50914?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/ADS-2026%E2%80%932029-E50914?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafelolab&theme=midnight-purple&hide_border=verdadeiro&short_numbers=verdadeiro&date_format=j%2Fn%5B%2FY%5D&fundo=000000&anel=E50914&fogo=E50914&r%C3%B3tulo%20de%20dias%20exclu%C3%ADdos=EB5454)](https://git.io/streak-stats)
+<div align="center">
 
 ## 🔴 SOBRE MIM
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória na área de tecnologia.
+</div>
 
-Gosto de entender como as coisas funcionam, transformar ideias em projetos e aprender colocando a mão na massa.
+<table>
+<tr>
+<td width="60%">
 
-Atualmente estou desenvolvendo conhecimentos em **programação, desenvolvimento web, Python, Java, C, Git/GitHub, redes e automação**.
+### 👨‍💻 Olá, eu sou o Rafelo!
 
-Meu objetivo é evoluir constantemente e transformar cada projeto em uma oportunidade de aprendizado.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira na área de tecnologia.
+
+Tenho interesse em **programação, desenvolvimento, automação e resolução de problemas**.
+
+Gosto de aprender através da prática, criando projetos e colocando em código aquilo que estou estudando.
+
+Atualmente venho desenvolvendo conhecimentos em:
+
+`C` `Java` `Python` `JavaScript`
+
+além de **HTML, CSS, Git, GitHub, redes, computação em nuvem e Scrum**.
+
+</td>
+
+<td width="40%">
+
+<div align="center">
+
+### 🔴 PERFIL
+
+<br>
+
+💻 **Developer in progress**
+
+🎓 **ADS**
+
+🐍 **Python**
+
+☕ **Java**
+
+⚙️ **C**
+
+🌐 **JavaScript**
+
+🚀 **Always learning**
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔴 TECNOLOGIAS
+<div align="center">
 
-### Linguagens
+## 🔴 TECH STACK
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
-</p>
+</div>
 
-### Desenvolvimento Web
+<table align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<tr>
 
-### Ferramentas & Tecnologias
+<td align="center" width="25%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+### 💻 Linguagens
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=c,java,python" />
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐 Web
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛠️ Ferramentas
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐 Outros
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cisco" />
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+| 🔴 Área | Tecnologias |
+|:---:|:---|
+| 💻 **Programação** | C • Java • Python • JavaScript |
+| 🌐 **Web** | HTML • CSS • JavaScript |
+| 🔧 **Versionamento** | Git • GitHub |
+| 🌐 **Redes** | LAN • WLAN • Cisco |
+| ☁️ **Cloud** | Computação em Nuvem |
+| 📋 **Metodologias** | Scrum • Agile |
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🔴 PROJETOS
 
-### 🛒 Lista de Compras
+</div>
 
-Aplicação web com funcionalidades de criação, edição e remoção de itens.
+<table>
+<tr>
 
-**Tecnologias:** HTML • CSS • JavaScript
+<td width="50%">
+
+<div align="center">
+
+### 🛒 LISTA DE COMPRAS
+
+<img src="https://img.shields.io/badge/HTML-E50914?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-E50914?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-E50914?style=flat-square&logo=javascript&logoColor=white"/>
+
+</div>
+
+Aplicação web com operações de um CRUD básico.
+
+**Inclui:**
+
+- Adicionar itens
+- Editar itens
+- Remover itens
+- Manipulação do DOM
+
+</td>
+
+<td width="50%">
+
+<div align="center">
+
+### 🔢 CONTADOR
+
+<img src="https://img.shields.io/badge/JavaScript-E50914?style=flat-square&logo=javascript&logoColor=white"/>
+
+</div>
+
+Projeto desenvolvido para praticar lógica e manipulação do DOM.
+
+**Conceitos:**
+
+- Eventos
+- Funções
+- Variáveis
+- DOM
+- Condições
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<div align="center">
+
+### 🐍 PYTHON & AUTOMAÇÃO
+
+<img src="https://img.shields.io/badge/Python-E50914?style=flat-square&logo=python&logoColor=white"/>
+
+</div>
+
+Projetos e exercícios voltados para programação e automação.
+
+**Praticando:**
+
+- Lógica
+- Estruturas condicionais
+- Loops
+- Funções
+- Automação
+
+</td>
+
+<td width="50%">
+
+<div align="center">
+
+### 🤖 CHATBOT COM IA
+
+<img src="https://img.shields.io/badge/Python-E50914?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-E50914?style=flat-square&logoColor=white"/>
+
+</div>
+
+Projeto desenvolvido para explorar interação entre usuário e sistemas utilizando IA.
+
+**Conceitos:**
+
+- Inteligência artificial
+- Automação
+- Interação
+- Processamento de entradas
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<div align="center">
+
+### 🌐 PROJETO DE REDES
+
+<img src="https://img.shields.io/badge/NETWORK-E50914?style=flat-square"/>
+<img src="https://img.shields.io/badge/CISCO-E50914?style=flat-square&logo=cisco&logoColor=white"/>
+
+</div>
+
+Estudo e planejamento de uma infraestrutura de rede empresarial.
+
+**Trabalhando com:**
+
+- LAN
+- WLAN
+- Topologias
+- Simulação de rede
+
+</td>
+
+<td width="50%">
+
+<div align="center">
+
+### 💻 PROGRAMAÇÃO EM C
+
+<img src="https://img.shields.io/badge/C-E50914?style=flat-square&logo=c&logoColor=white"/>
+
+</div>
+
+Projetos acadêmicos para desenvolvimento da lógica de programação.
+
+**Praticando:**
+
+- `if / else`
+- `switch`
+- `for`
+- `while`
+- Arrays
+- Funções
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-### 🔢 Contador
+<div align="center">
 
-Projeto desenvolvido para praticar manipulação do DOM, eventos e lógica com JavaScript.
+## 🔴 CURRENTLY LEARNING
 
-**Tecnologias:** HTML • CSS • JavaScript
+</div>
 
----
+<table align="center">
 
-### 🐍 Python & Automação
+<tr>
 
-Projetos e exercícios desenvolvidos para praticar lógica de programação, automação e resolução de problemas com Python.
+<td align="center">
 
-**Tecnologia:** Python
-
----
-
-### 🤖 Chatbot com IA
-
-Projeto desenvolvido para explorar conceitos de inteligência artificial e interação entre usuário e sistema.
-
-**Tecnologias:** Python • IA
-
----
-
-### 🌐 Projeto de Redes
-
-Estudo e desenvolvimento de uma solução de rede para um cenário empresarial, envolvendo topologia, LAN/WLAN e simulação.
-
-**Tecnologias:** Redes • Cisco
-
----
-
-### 💻 Programação em C
-
-Projetos acadêmicos desenvolvidos para praticar lógica, estruturas condicionais, loops, funções e manipulação de dados.
-
-**Tecnologia:** C
-
----
-
-## 🔴 O QUE ESTOU APRENDENDO
+### 💻 PROGRAMMING
 
 ```text
-▸ Programação
-▸ Desenvolvimento Web
-▸ Python
-▸ Java
-▸ C
-▸ Git & GitHub
-▸ Redes
-▸ Computação em Nuvem
-▸ Scrum
-▸ Automação
+C
+Java
+Python
+JavaScript
