@@ -17,6 +17,8 @@
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafelolab&theme=midnight-purple&hide_border=verdadeiro&short_numbers=verdadeiro&date_format=j%2Fn%5B%2FY%5D&fundo=000000&anel=E50914&fogo=E50914&r%C3%B3tulo%20de%20dias%20exclu%C3%ADdos=EB5454)](https://git.io/streak-stats)
+
 ## 🔴 SOBRE MIM
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória na área de tecnologia.
