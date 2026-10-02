@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Rafael!
+# 👋 HI, I'M RAFAEL!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E30613&center=true&vCenter=true&width=700&lines=Estudante+de+ADS;Desenvolvedor+em+forma%C3%A7%C3%A3o;Python+%7C+C+%7C+Java+%7C+JavaScript;Web+%7C+Automa%C3%A7%C3%A3o+%7C+Dados+%7C+IA;Aprendendo%2C+construindo+e+evoluindo." alt="Typing SVG" />
 
