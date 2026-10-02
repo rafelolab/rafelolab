@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=700&lines=I'M+RAFELO;Estudante+de+ADS;Desenvolvedor+em+forma%C3%A7%C3%A3o;Programando%2C+aprendendo+e+evoluindo;Transformando+ideias+em+projetos"/>
 
+https://github-readme-stats.vercel.app/api?username=rafelolab&show_icons=true&bg_color=000000&title_color=E50914&icon_color=E50914&text_color=FFFFFF&hide_border=true
+
 <br><br>
 
 <img src="https://img.shields.io/badge/FOCO-TECNOLOGIA-E50914?style=for-the-badge&labelColor=000000"/>
