@@ -22,10 +22,10 @@
 
 ![Tecnologias](https://skillicons.dev/icons?i=html,css,js,java,c,python,notion,vscode)
 
-## 📫 Contato
+### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF2400?style=for-the-badge&logo=linkedin&logoColor=black)](SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-FF2400?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-FF2400?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafelolab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafelolab)
 
 
