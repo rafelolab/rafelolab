@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rafelolab/rafelolab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=1DB635&width=435&lines=I'M+RAFELO)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=ADS+Student+%7C+Developer+in+Progress+%7C+;+Learning%2C+Building%2C+Evolving.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+![Tecnologias](https://skillicons.dev/icons?i=html,css,js,java,c,python,notion,vscode,github)
+
+</div>
+
+---
+
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafelolab&theme=aura_dark&title_color=ffffff&text_color=ffffff&bg_color=050505&icon_color=ffffff&chart_color=ffffff" width="30%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafelolab&theme=aura_dark&title_color=ffffff&text_color=ffffff&bg_color=050505&icon_color=ffffff&chart_color=ffffff" width="30%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafelolab&theme=aura_dark&utcOffset=0&title_color=ffffff&text_color=ffffff&bg_color=050505&icon_color=ffffff&chart_color=ffffff" width="30%">
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafelolab&theme=aura_dark&title_color=ffffff&text_color=ffffff&bg_color=050505&icon_color=ffffff&chart_color=ffffff" width="60%" style="vertical-align: top;">
+
+<img src="https://streak-stats.demolab.com/?user=rafelolab&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&background=000000&ring=FF2400&fire=FF2400&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF" width="30%" style="vertical-align: top;">
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="www.linkedin.com/in/rafaelpfeitosa">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/rafelolab">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:rpmelo442@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
