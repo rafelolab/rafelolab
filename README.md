@@ -33,7 +33,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafelolab&theme=aura_dark&title_color=ffffff&text_color=ffffff&bg_color=050505&icon_color=ffffff&chart_color=ffffff" width="60%" style="vertical-align: top;">
 
-<img src="https://streak-stats.demolab.com/?user=rafelolab&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&background=000000&ring=FFFFFF&fire=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF" width="30%" style="vertical-align: top;">
+<img src="https://streak-stats.demolab.com/?user=rafelolab&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&background=000000&ring=FFFFFF&fire=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF" width="40%" style="vertical-align: top;">
 
 </div>
 
